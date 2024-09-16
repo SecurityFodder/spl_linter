@@ -1,0 +1,2 @@
+splunk-sdk==1.6.22
+pyparsing==3.0.9
